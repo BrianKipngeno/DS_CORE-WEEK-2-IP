@@ -26,12 +26,12 @@ This project aims to analyze key indicators and identify patterns that can help 
 - Educate the rural population on the benefits and usage of financial services.
 - Cross-country collaboration, especially between Uganda and Kenya, to improve financial service penetration.
   
-```
+
 
 ![](https://forthebadge.com/images/badges/check-it-out.svg)
 
 # Installation Requirements
-```
+
 
 
 Use Google Colab or Jupyter Notebook for data preparation and analysis.
@@ -43,7 +43,7 @@ Loading datasets and previewing datasets.
 Cleaning data; Renaming columns for uniformity, and dropping insignificant columns.
 
 Create a new columns
-```
+
 
 # Technologies used
 
@@ -56,21 +56,21 @@ Pandas
 Numpy
 
 # Known Bugs
-```
+
 Not enough data analysis given.
 
-```
+
 
 # Contact Details
-```
+
 brian.kipngeno@students.moringaschool.com
-```
+
 # Licence
-```
+
 Uses the MIT licence
-```
+
 # Copyright
-```
+
 Copyright (C) Moringa School Data Science.
-```
+
 
