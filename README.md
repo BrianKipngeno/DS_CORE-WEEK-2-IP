@@ -1,5 +1,5 @@
 # Financial Inclusion in East Africa project
-```
+
 
 This project provides an in-depth Exploratory Data Analysis (EDA) of financial inclusion across East African countries using data from the Finscope Financial Inclusion Surveys. Financial inclusion remains a critical challenge for economic development in the region. In countries like Kenya, Rwanda, Tanzania, and Uganda, only a small percentage of adults have access to or use commercial banking services.
 
@@ -25,6 +25,7 @@ This project aims to analyze key indicators and identify patterns that can help 
 - Increase awareness campaigns for women on banking and financial services.
 - Educate the rural population on the benefits and usage of financial services.
 - Cross-country collaboration, especially between Uganda and Kenya, to improve financial service penetration.
+  
 ```
 
 ![](https://forthebadge.com/images/badges/check-it-out.svg)
